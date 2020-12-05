@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_ATLAS_USERNAME": "username",
+        "MONGO_ATLAS_PW": "password",
+        "MONGO_DB": "database-name",
+        "JWT_KEY": "secret"
+    }
+}
