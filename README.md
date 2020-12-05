@@ -10,3 +10,10 @@ Node RESTful API development with MongoDB cloud ATLAS server.
 
 | users | products | orders |
 -----------------------------
+
+#### users route /users
+| Route Type | Route Name |
+| ---------- | ---------- |
+| POST | /signup |
+| POST | /login |
+| DELETE | /:userId |
